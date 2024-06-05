@@ -1,0 +1,118 @@
+body {
+    margin: 0px 10%;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.container {
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.color-panel {
+    display: inline-block;
+    min-height: 100px;
+    text-align: center;
+    margin: 20px auto;
+    width: 33.1%;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+.tieflila {
+    background-color: #7C164C;
+    color: white;
+}
+
+.blasslila {
+    background-color: #996581;
+    color: white;
+}
+
+.white {
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid black;
+}
+
+.hellbeige {
+    background-color: #F5F3EA;
+}
+
+.dunkelgelb {
+    background-color: #DECA3C;
+}
+
+.schieferblau {
+    background-color: #495C5E;
+    color: white;
+}
+
+.font-panel {
+    font-size: 14px;
+    width: 33.1%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.font-heading {
+    font-size: 22px;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.lora {
+    font-family: "Lora", sans-serif;
+}
+
+.dmsans {
+    font-family: "DM Sans", serif;
+    line-height: 1.5;
+}
+
+.styles-panel {
+    width: 33.1%;
+    display: inline-block;
+}
+
+.H1-style {
+    font-size: 32px;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+    line-height: 1;
+}
+
+.H2-style {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+}
+
+.P-style {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+}
+
+.list {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
